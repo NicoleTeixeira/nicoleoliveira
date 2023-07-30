@@ -1,0 +1,14 @@
+function saudacao(nome) {
+  console.log(`Olá, ${nome}! Seja bem-vindo(a) ao meu perfil!`);
+}
+
+saudacao('Usuário');
+# Inicializa o repositório Git
+git init
+
+# Adiciona os arquivos ao repositório
+git add .
+
+# Realiza o primeiro commit
+git commit -m "Primeiro commit"
+
